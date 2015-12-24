@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Los Jaweros]]></title>
+        <description><![CDATA[Los Jaweros]]></description>
+        <link>https://thegrid.ai/los-jaweros/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 24 Dec 2015 17:06:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/los-jaweros/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Tours]]></title>
+            <description><![CDATA[<article><h1>Tours</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/872fcb62-155c-4509-9d2a-37b61937688a.JPG"></article>]]></description>
+            <link>https://thegrid.ai/los-jaweros/tours/index.html</link>
+            <guid isPermaLink="false">21028e85-99d6-4ff8-b86f-b96057bf68ba</guid>
+            <pubDate>Thu, 24 Dec 2015 17:05:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Your motorcycle diaries]]></title>
+            <description><![CDATA[<article><h1>Your motorcycle diaries</h1><p>null</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/75b9bf65-7712-4cc3-8199-eb7d9bef683b.JPG"></article>]]></description>
+            <link>https://thegrid.ai/los-jaweros/your-motorcycle-diaries/index.html</link>
+            <guid isPermaLink="false">536b0d48-d117-4dc5-ad3c-5ebca71832f3</guid>
+            <pubDate>Thu, 24 Dec 2015 16:40:27 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
