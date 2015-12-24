@@ -21,7 +21,7 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.4375
+  brandStrength: 0.0625
   lightness: 0.39109444944188
   saturation: 0.27147684106603265
   rhythmicContrast: 0.6642030929215252
