@@ -1,6 +1,6 @@
 name: Los Jaweros
 favicon: null
-layout_spectrum: 0.98853
+layout_spectrum: 0
 typography_spectrum: 0.20927
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#756b69'
     - '#71a5cc'
     - '#bd9c73'
-  brandStrength: 0
+  brandStrength: 0.25
   lightness: 0.6875
   saturation: 0.5
   rhythmicContrast: 0.5
